@@ -2,6 +2,8 @@
 // Hamish Philip
 // 13/07/23
 //
+// Code to implement a Binary Search Tree in C With test code
+//
 
 //for console logs and memory allocation
 #include <stdlib.h>
